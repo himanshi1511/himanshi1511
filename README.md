@@ -1,4 +1,5 @@
-# 💫 Himanshi this side :)
+# 💫 Lemme tell you something about me :
+
 ### 👩‍💻 Himanshi Arora<br><br>🔭 Currently diving deep into web development  <br>📚 Well-versed in Data Structures and Algorithms  <br>🌱 On a journey to master backend development  <br>☁️ Ask me about C++, Frontend Development, and DSA  <br>📫 Reach out to me at himanshiarora1608@gmail.com<br>⚡ Fun fact: I have a passion for coding and a knack for problem-solving!<br><br>
 
 
